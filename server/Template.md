@@ -1,0 +1,10 @@
+---
+Title:
+Author:
+ISBN:
+Pages:
+Bookshelves:
+DateRead:
+DateAdded:
+MyRating:
+---
